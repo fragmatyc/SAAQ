@@ -14,7 +14,8 @@ Durée totale de formation : 22h
 * Développer à l’aide de patrons de conception
 * Développer selon les principes programmation défensive
 * Développer du code propre, facile à maintenir et à faire évoluer
-* Développer des interfaces graphiques* Développer des formulaires web
+* Développer des interfaces graphiques
+* Développer des formulaires web
 * Développer et appliquer des feuilles de styles pour le web
 * Créer une maquette depuis une image
 * Développer des composantes web riches
