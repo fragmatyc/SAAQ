@@ -5,7 +5,7 @@ _Outils nécessaire_
 1. Notepad++
 2. Un fureteur (recommendation: Google Chrome)
 
-_Connaissances aquises_
+_Connaissances acquises_
 1. Les balises `html`, `head`, `title` et `body`
 2. Écrire du contenu dans une page web
 3. Modifier le titre d'un page web
