@@ -1,4 +1,4 @@
-# Exercice 1
+# Exercice 1 - Hello World
 Cet exercice a pour but de vous familiariser avec la structure de base d'une page web écrite en HTML5.
 
 _Outils nécessaire_
