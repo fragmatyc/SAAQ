@@ -52,4 +52,12 @@ _Connaissances acquises_
        * Site web (lien qui ouvre dans une nouvelle fenêtre) http://www.autre-entreprise.com
        
 ## 2.e Entête et pied de page       
-
+1. Modifier le document créé à l'exercice 2.a
+2. Créer une zone d'entête de page en entourant le titre de section de niveau 1
+3. Créer une section qui entoure le premier paragraphe et la liste à puces.
+4. Créer une section qui entoure le titre de niveau 2 et son paragraphe.
+5. Créer une section qui entoure le titre de niveau 3 et son paragraphe.
+6. Créer une section qui entoure le titre de niveau 4 et le tableau.
+7. Créer une section qui entoure le titre de niveau 5 et son paragraphe.
+8. Créer une section qui entoure le titre de niveau 6 et son paragraphe.
+9. Créer un pied de page qui affiche : &copy; 2018 SAAQ - Tous droits réservés
