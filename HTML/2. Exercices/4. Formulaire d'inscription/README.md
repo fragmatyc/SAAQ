@@ -30,6 +30,7 @@ _Connaissances acquises_
    * Deux boutons côtes-à-côtes : 
       * Un de type envoie du formulaire avec le libellé **S'inscrire**
       * Un de type réinitialisation du formulaire avec le libellé **Annuler**
+      
 Note : 
 * Les libellés et les champs doivent être liés avec les propriétés `for` et `id`
 * Les champs doivent apparaitre un sous l'autre, **sauf les boutons radio** (astuce : utiliser un `div`)
