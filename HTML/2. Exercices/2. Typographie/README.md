@@ -50,3 +50,6 @@ _Connaissances acquises_
        * Nom complet : Gaétan Michaud
        * Adresse courriel (lien) : gaetan.michaud@autre-entreprise.com
        * Site web (lien qui ouvre dans une nouvelle fenêtre) http://www.autre-entreprise.com
+       
+## 2.e Entête et pied de page       
+
