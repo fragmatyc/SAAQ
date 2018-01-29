@@ -1,7 +1,7 @@
 # Exercice 1 - Hello World
 Cet exercice a pour but de vous familiariser avec la structure de base d'une page web écrite en HTML5.
 
-_Outils nécessaire_
+_Outils nécessaires_
 1. Notepad++
 2. Un fureteur (recommendation: Google Chrome)
 
