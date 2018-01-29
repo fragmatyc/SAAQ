@@ -64,7 +64,7 @@ _Connaissances acquises_
 
 ## 2.f Menu de navigation
 1. Modifier le document créé à l'exercice 2.a
-2. Ajouter un menu de navigation avec trois liens
+2. Ajouter un menu de navigation avec trois liens dans l'entête de page avant le titre de niveau 1
    * URL: http://www.google.com Texte: Recherche
    * URL: http://blog.ezoqc.com Texte: Blogue
    * URL: http://github.ezoqc.com/SAAQ Texte: Sources
