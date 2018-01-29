@@ -15,10 +15,10 @@ _Connaissances acquises_
 2. Créer une section globale pour envelopper le formulaire
 3. Créer un titre de niveau 1 dans la section intitulé _Authentification_
 4. Créer un formulaire et y ajouter :
-   * Un champ de type courriel avec son libellé _Adresse courriel_
-   * Un champ de mot de passe avec son libellé _Mot de passe_
-   * Une case à cocher avec sont libellé _Se souvenir de moi_
-   * Un bouton de soumission pour le formulaire intilulé _Se connecter_
+   * Un champ de type courriel avec son libellé **Adresse courriel**
+   * Un champ de mot de passe avec son libellé **Mot de passe**
+   * Une case à cocher avec son libellé **Se souvenir de moi**
+   * Un bouton de soumission pour le formulaire intilulé **Se connecter**
    
 Note : 
 * Les libellés et les champs doivent être liés avec les propriétés `for` et `id`
