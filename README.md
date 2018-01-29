@@ -142,22 +142,23 @@ Durée totale de formation : 22h
    * Backbone
    * KnockOutJS
 
-#### Architecture Logicielle – Domain-Driven Design et Model-View-Controller (2h)
-1. Théorie
-2. Le DDD (Domain-Driven Design)
-3. MVC (Model-View-Controller)
-4. MVC (Model-View-Controller) vs MVP (Model-View-Presenter) vs MVVW (Model-View-ViewModel)
-5. AOS (Architecture orientée-services), DDD (Domain-driven design) et MVC (Model-View-Controller)
-#### Injection de dépendances (2h)
-1. Théorie
-2. Inversion de contrôle avec Autofac
-3. Démo
-#### ORM (2h)
-1. Théorie
-2. ORM avec Entity Framework
+#### Architecture logicielle pour développeurs 
+1. Domain-Driven Design et Model-View-Controller (2h)
+   * Théorie
+   * Le DDD (Domain-Driven Design)
+   * MVC (Model-View-Controller)
+   * MVC (Model-View-Controller) vs MVP (Model-View-Presenter) vs MVVW (Model-View-ViewModel)
+   * AOS (Architecture orientée-services), DDD (Domain-driven design) et MVC (Model-View-Controller)
+2. Injection de dépendances (2h)
+   * Théorie
+   * Inversion de contrôle avec Autofac
+   * Démo
+3. ORM (2h)
+   * Théorie
+   * ORM avec Entity Framework
    * Entity vs Objet
-   * Couche d’accès aux données
-      * DAO
-      * Repository
-      * Démo
+      * Couche d’accès aux données
+         * DAO
+         * Repository
+         * Démo
 
