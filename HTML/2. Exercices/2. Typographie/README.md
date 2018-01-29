@@ -31,3 +31,22 @@ _Connaissances acquises_
 1. Modifier le document créé à l'exercice 2.a
 2. Ajouter une liste à puces **ordonnée** avec 5 éléments (ex.: `<li>Élément liste</li>`) sous le premier paragraphe.
 3. Pour chaque éléments de la liste du point 2, ajouter un sous-liste **non-ordonnée** de 2 éléments (ex.: `<li>Sous-élément</li>`)
+
+## 2.d - Tableaux de contacts
+1. Modifier le document créé à l'exercice 2.a
+2. Sous le paragraphe 4, créer un tableau avec entête et les colonnes :
+   * Avatar
+   * Nom complet
+   * Adresse courriel
+   * Site web
+ 3. Remplir le tableau avec les données suivantes :
+    * Ligne 1
+       * Avatar (img url): https://placeholdit.imgix.net/~text?txtsize=33&txt=SC&w=100&h=100
+       * Nom complet : Stéphane Cournoyer
+       * Adresse courriel (lien) : stephane.cournoyer@entreprise-bidon.com
+       * Site web (lien qui ouvre dans une nouvelle fenêtre) http://www.entreprise-bidon.com
+    * Ligne 2
+       * Avatar (img url): https://placeholdit.imgix.net/~text?txtsize=33&txt=GM&w=100&h=100
+       * Nom complet : Gaétan Michaud
+       * Adresse courriel (lien) : gaetan.michaud@autre-entreprise.com
+       * Site web (lien qui ouvre dans une nouvelle fenêtre) http://www.autre-entreprise.com
