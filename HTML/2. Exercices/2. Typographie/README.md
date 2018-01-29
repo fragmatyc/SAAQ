@@ -29,5 +29,5 @@ _Connaissances acquises_
 
 ## 2.c - Listes et listes imbriquées
 1. Modifier le document créé à l'exercice 2.a
-2. Ajouter une liste à puces **ordonnée** avec 5 éléments (ex.: `<li>Élément liste</li>`)
+2. Ajouter une liste à puces **ordonnée** avec 5 éléments (ex.: `<li>Élément liste</li>`) sous le premier paragraphe.
 3. Pour chaque éléments de la liste du point 2, ajouter un sous-liste **non-ordonnée** de 2 éléments (ex.: `<li>Sous-élément</li>`)
