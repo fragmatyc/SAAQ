@@ -21,3 +21,13 @@ _Connaissances acquises_
 4. Ajouter un paragraphe entre chaque titre de section.
 
 **Texte des paragraphes :** _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut libero vitae ex blandit aliquam in convallis felis. In iaculis sapien ante, quis faucibus neque rutrum ac. Nunc egestas eu neque vel iaculis. Sed dictum est quam. Mauris et feugiat felis, nec consequat nulla. Vestibulum in feugiat nulla. Vestibulum molestie et felis vel tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fringilla leo nisi, eget ultricies arcu congue in. Nunc nec vestibulum justo. Cras tellus quam, porta ac cursus in, ullamcorper eget sapien. In vel tellus eget dui varius imperdiet._
+
+## 2.b - Texte en importance et avec emphase
+1. Modifier le document créé à l'exercice 2.a
+2. Mettre l'emphase sur la première phrase du paragraphe 1.
+3. Mettre le texte de la première phrase du paramgraphe 2 en importance.
+
+## 2.c - Listes et listes imbriquées
+1. Modifier le document créé à l'exercice 2.a
+2. Ajouter une liste à puces **ordonnée** avec 5 éléments (ex.: `<li>Élément liste</li>`)
+3. Pour chaque éléments de la liste du point 2, ajouter un sous-liste **non-ordonnée** de 2 éléments (ex.: `<li>Sous-élément</li>`)
