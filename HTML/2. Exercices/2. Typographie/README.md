@@ -67,4 +67,4 @@ _Connaissances acquises_
 2. Ajouter un menu de navigation avec trois liens
    * URL: http://www.google.com Texte: Recherche
    * URL: http://blog.ezoqc.com Texte: Blogue
-   * URL: http://github.ezoqc.com Texte: Sources
+   * URL: http://github.ezoqc.com/SAAQ Texte: Sources
