@@ -30,46 +30,6 @@ Durée totale de formation : 22h
 * Créer des applications web 
 
 ### Détails des sujets couverts
-#### Programmation Orienté-Objet (4h)
-1. Présentation et historique 
-2. Principes de bases 
-   * Terminologie 
-      * Qu’est-ce qu’une classe?
-      * Qu’est-ce qu’une propriété (un attribut)?
-      * Qu’est-ce qu’une méthode?
-      * Qu’est-ce qu’une instance?
-   * Classe vs Objet 
-   * Membres et modificateurs d’accès 
-      * Static
-      * Public
-      * Private
-      * Protected
-   * Autres (default, internal)
-   * Héritage, surcharge et remplacement 
-      * Relation Parent/Enfant
-      * Surcharge vs Remplacement (Override vs Overload)
-   * Abstrait vs Interface 
-   * Types génériques 
-   * Concepts OO 
-      * Polymorphisme
-      * Cohésion
-      * Couplage
-   * La programmation défensive
-3. Principes avancés 
-   * Patrons de conception 
-      * Singleton 
-      * Fabrique
-      * Stratégie
-      * Observateur/Observable
-      * Décorateur
-      * Adapter
-   * Principes SOLID 
-      * Principe de responsabilité unique (S)
-      * Principe Ouvert/Fermé (O)
-      * Principe de substitution de Liskov (L)
-      * Principe de ségrégation des interfaces (I)
-      * Principe d’inversion de dépendances (D)
-
 #### HTML (4h)
 1. Présentation et historique
 2. Fonctionnement d’un site web
@@ -142,6 +102,46 @@ Durée totale de formation : 22h
    * VueJS
    * Backbone
    * KnockOutJS
+   
+#### Programmation Orienté-Objet (4h)
+1. Présentation et historique 
+2. Principes de bases 
+   * Terminologie 
+      * Qu’est-ce qu’une classe?
+      * Qu’est-ce qu’une propriété (un attribut)?
+      * Qu’est-ce qu’une méthode?
+      * Qu’est-ce qu’une instance?
+   * Classe vs Objet 
+   * Membres et modificateurs d’accès 
+      * Static
+      * Public
+      * Private
+      * Protected
+   * Autres (default, internal)
+   * Héritage, surcharge et remplacement 
+      * Relation Parent/Enfant
+      * Surcharge vs Remplacement (Override vs Overload)
+   * Abstrait vs Interface 
+   * Types génériques 
+   * Concepts OO 
+      * Polymorphisme
+      * Cohésion
+      * Couplage
+   * La programmation défensive
+3. Principes avancés 
+   * Patrons de conception 
+      * Singleton 
+      * Fabrique
+      * Stratégie
+      * Observateur/Observable
+      * Décorateur
+      * Adapter
+   * Principes SOLID 
+      * Principe de responsabilité unique (S)
+      * Principe Ouvert/Fermé (O)
+      * Principe de substitution de Liskov (L)
+      * Principe de ségrégation des interfaces (I)
+      * Principe d’inversion de dépendances (D)
 
 #### Architecture logicielle pour développeurs 
 1. Domain-Driven Design et Model-View-Controller (2h)
