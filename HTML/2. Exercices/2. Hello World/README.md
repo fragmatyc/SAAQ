@@ -16,5 +16,5 @@ _Connaissances acquises_
 3. Écrire _Hello World!_ dans le corps du document.
 
 ## 2.b - Changer le titre de la page pour "Ma première page HTML"
-1. Modifier le fichier créé à l'exercice 1.a
+1. Modifier le fichier créé à l'exercice 2.a
 2. Définissez le titre _Ma première page HTML_ dans l'entête de page.
