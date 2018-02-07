@@ -1,14 +1,18 @@
-# Excercice 4 - Formulaire d'inscription
+# Excercice 5 - Formulaire d'inscription
 Cet exercice a pour but de vous familiariser avec les différents type de champs d'un formulaire et de démontrer la méthode pour appliquer des validations sur les champs.
 
 _Outils nécessaires_
+* Git
+* Notepad++
+* Un fureteur
+* Node.js
 
 _Connaissances acquises_
 1. Les champs de type nombre, courriel, boutons radio, fichier et les zone de texte multiligne.
 2. Les boutons de réinitialisation de formulaire.
 3. Les validations HTML5 pour les champs requis et les valeurs minimales et maximales
 
-## 1.a - Création du formulaire d'inscription
+## 5.a - Création du formulaire d'inscription
 1. Créer un squelette de document HTML5
 2. Créer une section globale pour envelopper le formulaire
 3. Créer un titre de niveau 1 dans la section intitulé _Inscription_
