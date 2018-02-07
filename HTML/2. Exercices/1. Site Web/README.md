@@ -13,7 +13,7 @@ _Connaissances acquises_
 2. Comment fonctionne un serveur web
 3. Comment fonctionnent les requêtes HTTP
 
-## 1.a - Préparation des outils
+## 1.a - Créer un site web
 1. Installer un [client Git](https://git-scm.com/download/win)
 2. Cloner le dépôt de la formation `git clone https://github.com/EzoQC/SAAQ.git`
 3. Installer [Node.js](https://nodejs.org/en/download/current/) 
