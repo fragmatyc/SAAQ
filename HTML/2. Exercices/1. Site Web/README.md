@@ -25,3 +25,13 @@ _Connaissances acquises_
 7. Créer un fichier `index.html` et y écrire `Hello World!`, puis sauvegarder.
 8. Exécuter `http-server`
 9. Ouvrir un navigateur à l'adresse http://127.0.0.1:8080/
+
+## 2.b - Créer une requête sans navigateur
+1. Télécharger le client SSH [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+2. Exécuter Putty
+   * Dans le champ `Host Name (or IP address)`, taper l'adresse IP du serveur web (ex.: `10.4.120.108`)
+   * Dans le champ `Port`, taper le numéro du port sur lequel `http-server` écoute (ex.: `8080`)
+   * Dans `Connection type`, choisir l'option `Raw`
+   * Dans `Close window on exit`, choisir l'option `Never`
+3. Cliquer sur `Open`
+4. Dans l'invite de commande, taper `GET /` et appuyer **2 fois** sur `ENTER`
