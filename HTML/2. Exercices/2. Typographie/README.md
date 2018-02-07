@@ -61,3 +61,10 @@ _Connaissances acquises_
 7. Créer une section qui entoure le titre de niveau 5 et son paragraphe.
 8. Créer une section qui entoure le titre de niveau 6 et son paragraphe.
 9. Créer un pied de page qui affiche : &copy; 2018 SAAQ - Tous droits réservés
+
+## 2.f Menu de navigation
+1. Modifier le document créé à l'exercice 2.a
+2. Ajouter un menu de navigation avec trois liens dans l'entête de page avant le titre de niveau 1
+   * URL: http://www.google.com Texte: Recherche
+   * URL: http://blog.ezoqc.com Texte: Blogue
+   * URL: http://github.ezoqc.com/SAAQ Texte: Sources
