@@ -1,4 +1,4 @@
-# Exercice 3 - Boîte d'authentification
+# Exercice 4 - Boîte d'authentification
 Cet exercice a pour but de vous familiariser avec les éléments de formulaire de base.
 
 _Outils nécessaires_
@@ -10,7 +10,7 @@ _Connaissances acquises_
 2. Les champs de type courriel, mot de passe et boîte à cocher.
 3. Les boutons de soumission de formulaire.
 
-## 1.a - Création du formulaire d'authentification
+## 4.a - Création du formulaire d'authentification
 1. Créer un squelette de document HTML5
 2. Créer une section globale pour envelopper le formulaire
 3. Créer un titre de niveau 1 dans la section intitulé _Authentification_
