@@ -25,7 +25,7 @@ _Connaissances acquises_
 ## 3.b - Texte en importance et avec emphase
 1. Modifier le document créé à l'exercice 3.a
 2. Mettre l'emphase sur la première phrase du paragraphe 1.
-3. Mettre le texte de la première phrase du paramgraphe 2 en importance.
+3. Mettre le texte de la première phrase du paragraphe 2 en importance.
 
 ## 3.c - Listes et listes imbriquées
 1. Modifier le document créé à l'exercice 3.a
