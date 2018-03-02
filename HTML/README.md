@@ -19,3 +19,16 @@ Cette formation a pour objectif de donner aux participants une base solide pour 
    * Boutons
    * Champs de saisie
 7. Ressources externes (css, js, etc.) - Bonnes pratiques de découpage
+
+## Prérequis 
+Aucun
+
+## Connaissances acquises
+* Connaître l’historique et les paradigmes du HTML
+* Comprendre comment les navigateurs rendent le HTML
+* Comprendre la structure d’un document HTML5
+* Comprendre le fonctionnement d’un site web
+* Comprendre les bases du protocole http
+* Comprendre la nature sémantique du HTML 
+* Développer des pages web statiques simples
+* Développer des formulaires
