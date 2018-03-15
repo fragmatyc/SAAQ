@@ -1,4 +1,4 @@
-# Excercice 1 - Mise en place d'un site web
+# Exercice 1 - Mise en place d'un site web
 Cet exercice a pour but de vous familiariser avec les concepts derrière une page web ainsi que le protocol HTTP en général.
 
 _Outils nécessaires_
