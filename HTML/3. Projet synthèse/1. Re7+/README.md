@@ -24,9 +24,9 @@ Aucune nouvelle! Toutes les connaissances acquises lors de la formation seront m
 5. Créer un pied de page avec "&copy; Tous droits réservés - SAAQ - 2018"
 
 ## Page 2 - Consulter recette
-1. Créer un squelette de document HTML5, nommer "willncheesedeluxe.html".
+1. Créer un squelette de document HTML5, nommer "consulterrecette.html".
 2. Copier/Coller le squelette, le menu de navigation et le pied de page de la page d'accueil.
-3. Créer un titre de niveau 1 "Will n' Cheese Deluxe" avec l'information concenant la publication sous le titre.
+3. Créer un titre de niveau 1 au nom de votre recette avec l'information concenant la publication sous le titre.
 4. Créer une section avec la liste des ingrédients
 5. Ajouter la photo de la recette
 6. Ajouter une section pour les temps et les portions :
