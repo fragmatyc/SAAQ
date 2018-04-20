@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Exercice 6</title>
+		<script>
+			function toggleBox() {
+				if (document.getElementById('myBox').style.opacity === '0') {
+					document.getElementById('myBox').style.opacity = '1';
+				} else {
+					document.getElementById('myBox').style.opacity = '0';
+				}
+			}
+		</script>
+		<style>
+			.box {
+				width: 50px;
+				height: 50px;
+				border: 1px solid black;
+				background-color: red;
+			}
+
+		</style>
+		
+	</head>
+	
+	<body>
+		<h1>Exercice 6</h1>
+		<div id="myBox" class="box"></div>
+		<button type="button" onclick="toggleBox()">Afficher/Cacher</button>
+	</body>	
+</html>
