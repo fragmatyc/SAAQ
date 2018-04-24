@@ -1,38 +1,43 @@
 <!DOCTYPE html>
 <html>
-	<head><meta name="viewport" content="width=device-width, initial-scale=1">
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	
 		<title>Exercice - Sélecteur</title>
 		<style>
-			/*
-				Votre code va ici :)
+			/* 
+				color: blue;
+				font-size: 16px;
+				font-weight: bold;
+				font-style: italic;
 			*/
+			
+			h1 {
+				color: blue;
+			}
+			
+			#lorem-ipsum {
+				font-style: italic;
+			}
+			
+			div + section p {
+				color: gray;
+				
+			}
+			
+			body > p {
+				color: red;
+			}
+			
+			section div > p {
+				font-weight: bold;
+			}
 		</style>
 	</head>
 	<body>
-		<h1>Accueil</h1>
-		
-		<p id="lorem-ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae blandit mi, eu scelerisque nibh. Mauris in porttitor lectus, sit amet luctus velit. Duis sit amet justo eget ex ornare venenatis. Fusce non ullamcorper nulla. Nunc non dui in ligula rutrum tempus. Phasellus in auctor mauris, at fringilla eros. Ut pretium felis eu elit lacinia aliquet. Aliquam in lorem id massa volutpat vehicula in at ex.</p>
-		
-		<section>
-			<h2>Section 1</h2>
-			<label for="champ1">Champ bidon</label>
-			<input type="number" id="champ1">
-		</section>
-		
-		<section>
-			<h2>Section 2</h2>
-			<div>
-				<p>Aucun contenu</p>
-			</div>
-		</section>
-		
-		<div>Espacement...</div>
-		
-		<section>
-			<h2>Section 3</h2>
-			<p>Remplissez les champs</p>
-			<label for="champ2">Champ bidon</label>
-			<input type="text" id="champ2">
-		</section>
+		<div>1</div>
+		<div>2</div>
+		<div>3</div>
 	</body>
 </html>

@@ -4,9 +4,95 @@
 
 * {
   outline: none;
+  padding: 0;
+  margin: 0;
 }
 
 html, body {
   margin: 0;
   padding: 0;
+  height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	
+	position: relative;
+}
+
+.bg-fonce {
+	background-color: #303030;
+	height: 40vh;
+}
+
+.bg-pale {
+	background-color: lightblue;
+	flex-grow: 1;
+}
+
+.conteneur-login {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.login {
+	padding: 1em;
+	background-color: white;
+	width: 40%;
+	height: 60%;
+	display: flex;
+	flex-direction:column;
+}
+
+.login h1 {
+	font-size: 16px;
+}
+
+.login h2 {
+	font-size: 14px;
+	margin-bottom: 1em;
+}
+
+.button-container {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.field-container {
+	margin-bottom: 1em;
+	display: flex;
+	flex-direction: column;
+}
+
+.field-container label {
+	margin-bottom: .5em;
+	color: gray;
+	font-size: .75em;
+}
+
+.field-container input {
+	border: none;
+	border-bottom: 1px solid gray;
+}
+
+.btn {
+	border: none;
+	background-color: white;
+	padding: 1em;
+}
+
+.btn .btn-light {
+	
+}
+
+.btn .btn-accent {
+	background-color: #59b562;
 }
