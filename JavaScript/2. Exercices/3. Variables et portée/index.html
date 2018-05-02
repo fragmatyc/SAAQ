@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Exercice 3</title>
+		
+		<script
+		  src="http://code.jquery.com/jquery-3.3.1.min.js"
+		  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+		  crossorigin="anonymous"></script>
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		
+		<script src="index.js"></script>
+		<script src="debug.js"></script>
+		
+		<style>
+			body {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			
+			body, html {
+				height: 100%;
+				min-height: 100%;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<span class="card text-white bg-dark">
+			<span id="panelInstruction" class="card-body">
+				<h1 class="card-title">Exercie 3</h1>
+				<p class="card-text">
+					Les variables
+					<ol>
+						<li>Ouvrez la <strong>console développeur</strong> avec <kbd>F12</kbd></li>
+						<li>Ouvrez l'onglet <strong>console</strong> pour voir les logs.</li>
+						<li>
+							Éditez <code>index.js</code> pour :
+							<ul>
+								<li>Déclarer une variable <code>var1</code> et initialiser à <code>10</code>.</li>
+								<li>Déclarer une variable <code>var2</code> et initialiser avec un tableau qui contient 3 valeurs : 1, 2 et 3.</li>
+								<li>Déclarer une variable <code>fn</code> et initialiser avec une fonction anonyme.</li>
+								<li>Déclarer une variable <code>var3</code> et initialiser avec un objet littéral.</li>
+								<li>Ajouter une propriété <code>prop1</code> à <code>var3</code> et initialiser avec <code>'Bonjour'</code>.</li>
+							</ul>
+						</li>
+						<li>Rafraichir cette page avec <kbd>F5</kbd></li>
+						<li>Cliquer ici : <button id="btnValider" type="button" class="btn btn-primary">Valider le code</button></li>
+					</ol>
+				</p>
+			</span>
+			<span id="panelValidation" class="card-body" style="display: none">
+				<h1 class="card-title">Exercie 3 - Validations</h1>
+				<p class="card-text">
+					<ul class="list-group">
+						<li id="var1ExistsAndIs10" class="list-group-item"></li>
+						<li id="var2IsArrayContains3ItemsWithProperValues" class="list-group-item"></li>
+						<li id="fnExistsAndIsAFunction" class="list-group-item"></li>
+						<li id="var3ExistsAndProperlyInit" class="list-group-item"></li>
+					</ul>
+				</p>
+			</span>
+		</span>
+	</body>
+</html>
