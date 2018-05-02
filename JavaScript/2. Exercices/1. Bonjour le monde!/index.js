@@ -32,7 +32,3 @@
 		console.error('Hello %s!', 'Tony');	// Hello Tony!
 	
 */
-
-console.log('Hello World!');
-console.warn('Hello World!');
-console.error('Hello World!');
