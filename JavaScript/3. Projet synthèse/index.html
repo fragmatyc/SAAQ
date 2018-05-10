@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TodoApp</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"/>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+		<link rel="stylesheet" href="css/styles.css"/>
+		<script
+		    src="https://code.jquery.com/jquery-3.3.1.min.js"
+		    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+		    crossorigin="anonymous"></script>
+			
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+		<script src="js/id.service.js"></script>
+		<script src="js/todo.service.js"></script>
+		<script src="js/listing.js"></script>
+		<script src="js/edit.js"></script>
+	</head>
+	
+	<body>
+		<section class="container main-view">
+			<h1>TodoApp <small>Liste des tâches</small></h1>
+			<form class="form-inline flex-spaced">
+				<label for="editDescription">Description</label>
+				<input type="text" id="editDescription" class="form-control">
+				
+				<label for="editPriorite">Priorité</label>
+				<select class="form-control" id="editPriorite">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+				</select>
+				<button type="button" id="btnAjouter" class="btn btn-info"><i class="fa fa-plus"></i></button>
+			</form>
+			<table class="table">
+				<thead>
+					<tr>
+						<th></th>
+						<th>Id</th>
+						<th>Description</th>
+						<th>Priorité</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody id="todoTableBody">
+				
+				</tbody>
+			</table>
+		</section>
+		
+		<script>
+			/*
+				Initialiser les contrôleurs avec la méthode initialiserLaVue() :
+					EditTodoController
+					ListingController
+				
+				https://learn.jquery.com/using-jquery-core/document-ready/
+			*/
+		</script>
+	</body>
+</html>

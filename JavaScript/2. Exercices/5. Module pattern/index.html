@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Exercice 5</title>
+		
+		<script
+		  src="http://code.jquery.com/jquery-3.3.1.min.js"
+		  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+		  crossorigin="anonymous"></script>
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		
+		<script src="index.js"></script>
+		<script src="validations.js"></script>
+		<script src="debug.js"></script>
+		
+		<style>
+			body {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			
+			body, html {
+				height: 100%;
+				min-height: 100%;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<span class="card text-white bg-dark">
+			<span id="panelInstruction" class="card-body">
+				<h1 class="card-title">Exercie 4</h1>
+				<p class="card-text">
+					Les variables
+					<ol>
+						<li>Ouvrez la <strong>console développeur</strong> avec <kbd>F12</kbd></li>
+						<li>Ouvrez l'onglet <strong>console</strong> pour voir les logs.</li>
+						<li>
+							Éditez <code>index.js</code> pour :
+							<ul>
+								<li>Créer un module vide avec une IIFE appellé <code>StringUtils</code>.</li>
+								<li>Créer une méthode et exposer sous le nom <code>compterMots</code>.</li>
+								<li>La méthode accepte uniquement une chaîne de caractères (duck typing).</li>
+								<li>La méthode retourne le nombre de mots dans la chaîne de caractères (split sur <code>' '</code>).</li>
+								<li>Si le paramètre n'est pas une chaîne, retourner <code>0</code>.</li>
+							</ul>
+						</li>
+						<li>Rafraichir cette page avec <kbd>F5</kbd></li>
+						<li>Cliquer ici : <button id="btnValider" type="button" class="btn btn-primary">Valider le code</button></li>
+					</ol>
+				</p>
+			</span>
+			<span id="panelValidation" class="card-body" style="display: none">
+				<h1 class="card-title">Exercie 5 - Validations</h1>
+				<p class="card-text">
+					<ul class="list-group">
+						<li id="moduleIsFound" class="list-group-item"></li>
+						<li id="methodIsFound" class="list-group-item"></li>
+						<li id="algoIsGood" class="list-group-item"></li>
+					</ul>
+				</p>
+			</span>
+		</span>
+	</body>
+</html>

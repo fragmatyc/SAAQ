@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Exercice 6</title>
+		
+		<script
+		  src="http://code.jquery.com/jquery-3.3.1.min.js"
+		  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+		  crossorigin="anonymous"></script>
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		
+		<script src="index.js"></script>
+		<script src="validations.js"></script>
+		<script src="debug.js"></script>
+		
+		<style>
+			body {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			
+			body, html {
+				height: 100%;
+				min-height: 100%;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<span class="card text-white bg-dark">
+			<span id="panelInstruction" class="card-body">
+				<h1 class="card-title">Exercie 6</h1>
+				<p class="card-text">
+					jQuery
+					<ol>
+						<li>Ouvrez la <strong>console développeur</strong> avec <kbd>F12</kbd></li>
+						<li>Ouvrez l'onglet <strong>console</strong> pour voir les logs.</li>
+						<li>
+							Éditez <code>index.js</code> pour :
+							<ul>
+								<li>Visitez <a href="https://codepen.io" target="_blank">ce lien</a>.</li>
+								<li>Dans le menu (haut, droite), faire <em>Create</em> &gt; <em>New Pen</em>.</li>
+								<li>Collez dans la section html : <code>&lt;script src="http://code.jquery.com/jquery-3.3.1.min.js"&gt;&lt;/script&gt;</code>.</li>
+								<li>Créer un <code>div</code> avec un <code>id</code> à <code>resultat</code>.</li>
+								<li>Dans la section JS :
+									<ul>
+										<li>Ajouter dynamiquement un nouveau bouton <code>+</code> (voir <a href="http://api.jquery.com/append/" target="_blank">append()</a>).</li>
+										<li>Ajouter un <code>span</code> avec comme valeur <code>0</code>.</li>
+										<li>Ajouter un nouveau bouton <code>-</code>.</li>
+										<li>Faire en sorte qu'un clic qui <code>+</code> incrémente le compteur.</li>
+										<li>Faire en sorte qu'un clic qui <code>-</code> décrémente le compteur.</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ol>
+				</p>
+			</span>
+		</span>
+	</body>
+</html>

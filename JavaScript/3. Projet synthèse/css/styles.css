@@ -1,0 +1,9 @@
+.form-inline.flex-spaced {
+	justify-content: space-between;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#editDescription {
+	width: 30%;
+}

@@ -1,0 +1,16 @@
+[{
+	"id": "a654f",
+	"description": "Corrections linguistiques",
+	"priorite": 1,
+	"fait": false
+}, {
+	"id": "466d2",
+	"description": "Ajout de nouvelles images",
+	"priorite": 3,
+	"fait": false
+}, {
+	"id": "b179e",
+	"description": "Bouton \"Suivant\" non fonctionnel.",
+	"priorite": 4,
+	"fait": false
+}]
